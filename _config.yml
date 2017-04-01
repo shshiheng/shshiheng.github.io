@@ -16,9 +16,9 @@ author:  # change following line to your infomation.
   last_name: Shi  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.png  # upload your avatar at directory and edit it.
   github_username: shshiheng  # Leave blank if you don't have now
-  linkedin_id:  www.linkedin.com/in/shshiheng # Leave blank if you don't have now
-  facebook_username:   https://www.facebook.com/shshiheng # Leave blank if you don't have now
-  twitter_username:   https://twitter.com/shshiheng # Leave blank if you don't have now
+  linkedin_id:  shshiheng # Leave blank if you don't have now
+  facebook_username:   shshiheng # Leave blank if you don't have now
+  twitter_username:   shshiheng # Leave blank if you don't have now
   email:   sh_shiheng@outlook # Leave blank if you don't have now
   cv:  # A online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
