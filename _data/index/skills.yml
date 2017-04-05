@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: C/C++/C#, Matlab, OpenSceneGraph, UDP/TCP, 3ds Max, Adobe Photoshop, Microsoft Office (Word/Excel/Powerpoint)
-percentage: 99, 80, 99, 70, 80, 95, 90
+aspects: C/C++/C#, Matlab, OpenSceneGraph, UDP/TCP, 3ds Max, Adobe Photoshop, Microsoft Office
+percentage: 90, 80, 99, 70, 80, 95, 90
