@@ -1,18 +1,32 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: Beihang University
+    i18n: beihang0
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: Bachelor degree in Aircraft Design and Engineering
+    i18n: beihang0_desc
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: Sep. 2008 - Jul. 2012
+    i18n: beihang0_date
   job:
-    detail: CTO
-    i18n: company_a_job
-  icon: fa-plus-square
+    detail: Bachelor
+    i18n: beihang0_job
+  icon: fa-book
+
+- name:
+    detail: Beihang University
+    i18n: beihang1
+  desc:
+    detail: Master degree in Aircraft Design
+    i18n: beihang1_desc
+  date:
+    detail: Sep. 2012 - Feb. 2015
+    i18n: beihang1_date
+  job:
+    detail: Master
+    i18n: beihang1_job
+  icon: fa-book
 
 - name:
     detail: Company B

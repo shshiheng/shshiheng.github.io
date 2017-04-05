@@ -2,28 +2,42 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
     detail: Beihang University
-    i18n: beihang
+    i18n: beihang0
   desc:
-    detail: Bachelor degree in Aircraft Design and Engineering at Beihang University
-    i18n: beihang_desc
+    detail: Bachelor degree in Aircraft Design and Engineering
+    i18n: beihang0_desc
   date:
-    detail: Jul. 2008
-    i18n: beihang_date
+    detail: Sep. 2008 - Jul. 2012
+    i18n: beihang0_date
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail: Bachelor
+    i18n: beihang0_job
   icon: fa-book
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Beihang University
+    i18n: beihang1
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: Master degree in Aircraft Design
+    i18n: beihang1_desc
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: Sep. 2012 - Feb. 2015
+    i18n: beihang1_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
-  icon: fa-plus-square
+    detail: Master
+    i18n: beihang1_job
+  icon: fa-university
+
+- name:
+    detail: Tsinghua University
+    i18n: tsinghua
+  desc:
+    detail: Ph.D. Candidate, major in Computer Science and Technology
+    i18n: tsinghua_desc
+  date:
+    detail: Sep. 2015 - 
+    i18n: tsinghua_date
+  job:
+    detail: Ph.D. Candidate
+    i18n: tsinghua_job
+  icon: fa-space-shuttle
