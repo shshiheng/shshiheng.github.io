@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: C/C++/C#, Matlab, OpenSceneGraph, T<sub>e</sub>X, 3ds Max, Adobe Photoshop, UAV
+aspects: C/C++/C#, Matlab, OpenSceneGraph, <span class="tex">T<sub>e</sub>X</span>, 3ds Max, Adobe Photoshop, UAV
 percentage: 90, 80, 99, 70, 80, 95, 90
