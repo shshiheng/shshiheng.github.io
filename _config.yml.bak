@@ -29,7 +29,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-plane
     - name: fa-rocket
-  desc: Hi! My name is <b>Shi Heng</b> (aka <b>@shshiheng</b> elsewhere). I'm living in Beijing, China. Currently, I'm a Ph.D. Candidate in State Key Laboratory of Intelligent Technology and Systems at Tsinghua University. My main research interests are focused on intelligent control of aircrafts. My scholar page (in Chinese): http://xueshu.baidu.com/scholarID/CN-B18YRFPJ
+  desc: Hi! My name is <b>Shi Heng</b> (aka <b>@shshiheng</b> elsewhere). I'm living in Beijing, China. Currently, I'm a Ph.D. Candidate in State Key Laboratory of Intelligent Technology and Systems at Tsinghua University.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
