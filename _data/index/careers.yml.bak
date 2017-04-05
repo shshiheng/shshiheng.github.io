@@ -26,18 +26,18 @@
   job:
     detail: Master
     i18n: beihang1_job
-  icon: fa-book
+  icon: fa-university
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Tsinghua University
+    i18n: tsinghua
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: Ph.D. Candidate, major in Computer Science and Technology
+    i18n: tsinghua_desc
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: Sep. 2015 - 
+    i18n: tsinghua_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
-  icon: fa-plus-square
+    detail: Ph.D. Candidate
+    i18n: tsinghua_job
+  icon: fa-space-shuttle
