@@ -29,7 +29,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-plane
     - name: fa-rocket
-  desc: Hi! My name is <b>Shi Heng</b> (aka <b>@shshiheng</b> elsewhere).<br> Currently, I'm a Ph.D. Candidate in <i>State Key Laboratory of Intelligent Technology and Systems</i> at Tsinghua University. <br>My main research interests are focused on intelligent guidance & control of aircrafts.<br>Google Scholar: https://scholar.google.com/citations?user=maZqCl8AAAAJ&hl=en
+  desc: Hi! My name is <b>Shi Heng</b> (aka <b>@shshiheng</b> elsewhere).<br> Currently, I'm a Ph.D. Candidate in <i>State Key Laboratory of Intelligent Technology and Systems</i> at Tsinghua University. <br>My main research interests are focused on intelligent guidance & control of aircrafts.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
