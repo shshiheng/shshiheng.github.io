@@ -20,7 +20,7 @@ author:  # change following line to your infomation.
   facebook_username:   shshiheng # Leave blank if you don't have now
   twitter_username:   shshiheng # Leave blank if you don't have now
   instagram_username: sh_shiheng
-  email:   sh_shiheng@outlook # Leave blank if you don't have now
+  email:   sh_shiheng@outlook.com # Leave blank if you don't have now
   cv:  # A online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
@@ -29,7 +29,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-plane
     - name: fa-rocket
-  desc: Hi! My name is <b>Shi Heng</b> (aka <b>@shshiheng</b> elsewhere).<br> Currently, I'm a Ph.D. Candidate in <i>State Key Laboratory of Intelligent Technology and Systems</i> at Tsinghua University. <br>My main research interests are focused on intelligent control of aircrafts.<br>http://xueshu.baidu.com/scholarID/CN-B18YRFPJ
+  desc: Hi! My name is <b>Shi Heng</b> (aka <b>@shshiheng</b> elsewhere).<br> Currently, I'm a Ph.D. Candidate in <i>State Key Laboratory of Intelligent Technology and Systems</i> at Tsinghua University. <br>My main research interests are focused on intelligent guidance & control of aircrafts.<br>Google Scholar: https://scholar.google.com/citations?user=maZqCl8AAAAJ&hl=en
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
@@ -39,7 +39,7 @@ disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your c
 # analytics
 ## google analytics
 ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
-  # id:
+   id: UA-117089338-1
 
 ## growingIO
 gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
