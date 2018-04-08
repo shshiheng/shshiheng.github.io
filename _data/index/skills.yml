@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: C/C++/C#, Matlab, LaTeX, Visual Simulation, Adobe Photoshop, UAV
-percentage: 85, 80, 80, 70, 95, 60
+aspects: C/C++/C#, Matlab, LaTeX, UAV, Adobe Photoshop, Visual Simulation
+percentage: 85, 80, 80, 68, 95, 70
